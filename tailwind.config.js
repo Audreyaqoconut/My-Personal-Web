@@ -7,17 +7,18 @@ export default {
   theme: {
     extend: {
       colors: {
-        blue: {
-          50:  '#eff5fe',
-          100: '#dce8fd',
-          200: '#b9d1fb',
-          300: '#96baf6',
-          400: '#7aa4f1',
-          500: '#7aa4f1',
-          600: '#6495ED',
-          700: '#4d7fd9',
-          800: '#3a69c5',
-          900: '#2a4e8a',
+        // Sage green — literary, fresh, academic
+        sage: {
+          50:  '#f0f5f0',
+          100: '#ddeadd',
+          200: '#bdd3bc',
+          300: '#9bbc9a',
+          400: '#7aa579',
+          500: '#5e925d',
+          600: '#4d7a4e',
+          700: '#3d623e',
+          800: '#2e4a2f',
+          900: '#1f3320',
         },
       },
     },
